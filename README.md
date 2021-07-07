@@ -9,4 +9,4 @@ Also, research has shown that well-designed, well-implemented programs can effec
 
 Program contains admin, student and teacher modules.
 
-NOTE: graphics.h is a non-standard header. It refers to the old BGI graphics library of the Turbo C DOS compiler. This was done as part of my 11th Grade Project in 2017.
+###### NOTE: graphics.h is a non-standard header. It refers to the old BGI graphics library of the Turbo C DOS compiler. This was done as part of my 11th Grade Project in 2017.
